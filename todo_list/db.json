@@ -1,0 +1,58 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Complete Flutter UI",
+      "description": "Finish designing the UI for the home page",
+      "isCompleted": true,
+      "priority": "medium",
+      "dueDate": "2024-10-15T18:00:00Z",
+      "createdAt": "2024-10-01T09:30:00Z"
+    },
+    {
+      "id": "2",
+      "title": "Write API documentation",
+      "description": "Document all API endpoints for the backend",
+      "isCompleted": true,
+      "priority": "high",
+      "dueDate": "2024-10-12T14:00:00Z",
+      "createdAt": "2024-09-29T11:00:00Z"
+    },
+    {
+      "id": "3",
+      "title": "Test login functionality",
+      "description": "Ensure the login feature works across devices",
+      "isCompleted": false,
+      "priority": "low",
+      "dueDate": "2024-10-18T10:00:00Z",
+      "createdAt": "2024-10-03T15:45:00Z"
+    },
+    {
+      "id": "4",
+      "title": "Optimize database queries",
+      "description": "Improve query performance for large datasets",
+      "isCompleted": true,
+      "priority": "high",
+      "dueDate": "2024-10-14T08:00:00Z",
+      "createdAt": "2024-10-02T13:20:00Z"
+    },
+    {
+      "id": "5",
+      "title": "Implement push notification",
+      "description": "Set up push notifications for user engagement",
+      "isCompleted": true,
+      "priority": "high",
+      "dueDate": "2024-10-20T18:00:00Z",
+      "createdAt": "2024-10-05T09:30:00Z"
+    },
+    {
+      "id": "7",
+      "title": "Eat dinner",
+      "description": "eat breakfast",
+      "isCompleted": false,
+      "priority": "Low",
+      "dueDate": "2024-10-11 00:00:00.000",
+      "createdAt": "2024-10-10 21:12:26.911932"
+    }
+  ]
+}

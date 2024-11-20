@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  },
+  "name": "todo_list",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "run-server": "json-server --watch db.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
